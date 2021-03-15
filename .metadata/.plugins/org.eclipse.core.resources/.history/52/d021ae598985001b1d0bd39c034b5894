@@ -1,0 +1,5 @@
+package com.fatec.projetoweb.controller;
+
+public class HomeController {
+
+}
