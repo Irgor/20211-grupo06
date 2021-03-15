@@ -1,10 +1,6 @@
-1 não é necessario atualizar caso esteja tudo correto
-2 ok
-3 ok
-4 ok
-5 ok
-6 ok
-7 ok
-8 travei aq
-9
-10
+Integrantes:
+
+Alexandre Henrique Gabino de Souza RA: 2920482011019
+Igor Silva Nascimento RA: 2920482011004
+Joel Rodrigues Lima RA: 2920482011025
+Lucas Ariel Souza Pino RA: 2920481921040
